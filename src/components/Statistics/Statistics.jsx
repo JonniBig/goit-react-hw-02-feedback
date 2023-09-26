@@ -1,4 +1,4 @@
-import css from './FeedbackWidget.module.scss';
+import css from '../FeedbackWidget/FeedbackWidget.module.scss';
 // Компонент для відображення статистики
 export const Statistics = ({
   good,
