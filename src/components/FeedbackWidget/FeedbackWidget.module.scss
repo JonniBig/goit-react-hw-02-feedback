@@ -4,14 +4,9 @@
   gap: 12px;
 }
 
-.buttonOne:hover {
+.button {
+  text-transform: capitalize;
+}
+.button:hover {
   background-color: green;
-}
-
-.buttonTwo:hover {
-  background-color: gray;
-}
-
-.buttonThree:hover {
-  background-color: red;
 }
